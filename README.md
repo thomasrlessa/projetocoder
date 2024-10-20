@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/3f1bd093-e682-442d-8d4a-85831bda73af)
+
+
 Fraudes em setores como bancos, e-commerces e seguros são um problema significativo, resultando em prejuízos financeiros e minando a confiança dos clientes. O desenvolvimento de sistemas de detecção de fraudes é fundamental para identificar atividades suspeitas de maneira eficaz, minimizando tanto falsos positivos (transações legítimas classificadas como fraudulentas) quanto falsos negativos (fraudes não identificadas).
 
 Um dos grandes desafios nesse campo é o desbalanceamento dos dados, onde a maioria das transações é legítima e apenas uma pequena parcela é fraudulenta. Além disso, as táticas dos fraudadores estão em constante evolução, tornando o problema dinâmico e desafiador.
